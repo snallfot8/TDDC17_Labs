@@ -3,7 +3,7 @@ Lab series for AI course TDDC17 taught at Linköping University
 
 Lab 1: Simulator for automated vacuum cleaner. Construction of the agent
 
-Lab 2 Part 1: Simulator for automated vacuum cleaner. Implementation of the search algorithms
+Lab 2_part1: Simulator for automated vacuum cleaner. Implementation of the search algorithms
 
 Lab 4: Planning with pddl
 
